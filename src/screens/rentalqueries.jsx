@@ -5,7 +5,7 @@ import Queries from "../components/RelatedQueries/queries";
 
 function RentalQueries() {
     return (
-        <div className="m-[100px] pb-10">
+        <div className="ml-[50px] md:ml-[100px] pb-10">
             <h1 className="text-[48px] font-medium">
                 Rental Queries
             </h1>

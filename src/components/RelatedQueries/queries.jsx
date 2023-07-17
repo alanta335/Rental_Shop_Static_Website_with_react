@@ -4,7 +4,7 @@ function Queries(props) {
             <div className="font-normal text-[20px]">
                 {props.ques}
             </div>
-            <div className="pt-4 font-light">
+            <div className="pt-4 font-light text-justify">
                 {props.ans}
             </div>
         </div>

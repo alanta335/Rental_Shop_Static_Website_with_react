@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <div className="flex ml-[100px] mr-[100px] pb-12">
+        <div className="flex ml-[50px] md:ml-[100px] mr-[100px] pb-12">
             <div>
                 © 2023 LumenAudio. All rights reserved.
             </div>
